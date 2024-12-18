@@ -30,4 +30,4 @@ lib
 .gradle
 build
 out
-log
+lognode_modules/
